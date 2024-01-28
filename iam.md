@@ -66,4 +66,4 @@
     - **Answer:** AWS Organizations is a service that allows you to centrally manage and govern multiple AWS accounts. It helps you consolidate billing, apply policies across accounts, and simplify management. IAM is used within each individual account, while AWS Organizations provides management at the organizational level.
 
 **20. How do you troubleshoot IAM permission issues?**
-    - **Answer:** Troubleshooting IAM permission issues involves checking policies, roles, and group memberships to ensure that the user has the necessary permissions. CloudTrail logs can be reviewed to identify any denied actions and diagnose the issue.
+    - **Answer:** Troubleshooting IAM permission issues involves checking policies, roles, and group memberships to ensure that the user has the necessary permissions. CloudTrail logs can be reviewed to identify any denied actions and diagnose the issue. ## use tools like policy simulator.
