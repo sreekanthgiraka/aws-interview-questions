@@ -60,7 +60,7 @@
     - **Answer:** IAM policy versioning allows you to have multiple versions of a policy. When you update a policy, AWS creates a new version while keeping the old versions intact. This enables you to maintain backward compatibility and roll back changes if needed.
 
 **18. How can you monitor IAM events and activities?**
-    - **Answer:** You can monitor IAM events and activities by enabling AWS CloudTrail, which records all API calls made on your account. CloudTrail logs can be analyzed to track IAM activities and events.
+    - **Answer:** You can monitor IAM events and activities by enabling AWS CloudTrail, which records all API calls made on your account. CloudTrail logs can be analyzed to track IAM activities and events. Credential reports under IAM.
 
 **19. What is AWS Organizations and how does it relate to IAM?**
     - **Answer:** AWS Organizations is a service that allows you to centrally manage and govern multiple AWS accounts. It helps you consolidate billing, apply policies across accounts, and simplify management. IAM is used within each individual account, while AWS Organizations provides management at the organizational level.
